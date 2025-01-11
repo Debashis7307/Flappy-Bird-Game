@@ -60,7 +60,7 @@ Here are a few screenshots of the game in action:
    - You can download the repository as a ZIP file or clone it using Git:
 
      ```bash
-     git clone https://github.com/yourusername/FlappyBird.git
+     git clone https://github.com/Debashis7307/Flappy-Bird-Game.git
      ```
 
 2. **Prepare the Image Files**:
