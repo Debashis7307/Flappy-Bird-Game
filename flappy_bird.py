@@ -264,7 +264,7 @@ if __name__ == "__main__":
     # Initialize all pygame modules
     pygame.init()
     FPSCLOCK = pygame.time.Clock()
-    pygame.display.set_caption('Flappy Bird with Backgrounds')
+    pygame.display.set_caption('Flappy Bird Game')
 
     load_resources()
     while True:
