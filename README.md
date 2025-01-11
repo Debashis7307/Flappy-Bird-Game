@@ -48,8 +48,8 @@ To run this project, you need to have the following installed:
 
 Here are a few screenshots of the game in action:
 
-- **Screenshot 1**: ![Game Screenshot 1](path/to/your/screenshot1.png)
-- **Screenshot 2**: ![Game Screenshot 2](path/to/your/screenshot2.png)
+- **Screenshot 1**: ![Game Screenshot 1](pic1.jpg)
+- **Screenshot 2**: ![Game Screenshot 2](pic2.jpg)
 
 ---
 
